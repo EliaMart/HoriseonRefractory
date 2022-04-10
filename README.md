@@ -18,6 +18,7 @@ Changes made on HTML
 
     Changed the title from website to horiseon website
 
-Here is an image of the web application: (./assets/_Users_eliamartinez_Desktop_Homework_Week%201%20_HoriseonRefractory_index.html.png)
+Here is an image of the web application: (./assets/images/01-html-css-git-homework.png)
 
 Here is the URL to the web application:  (https://eliamart.github.io/HoriseonRefractory/).
+
