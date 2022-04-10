@@ -1,6 +1,7 @@
 # HoriseonRefractory
 
 Changes made on HTML
+
     Changed div to section x3
 
     Fixed link that scrolls to Search Engine Optimization when clicked 
@@ -18,7 +19,7 @@ Changes made on HTML
 
     Changed the title from website to horiseon website
 
-Here is an image of the web application: ./assets/images/01-html-css-git-homework.png
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/images/01-html-css-git-homework.png)
 
 Here is the URL to the web application:  (https://eliamart.github.io/HoriseonRefractory/).
 
